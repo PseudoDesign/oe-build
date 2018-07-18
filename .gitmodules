@@ -58,3 +58,6 @@
 	path = sources/meta-variscite-fslc
 	url = git://github.com/kraj/meta-variscite-fslc.git
 	branch = pyro
+[submodule "sources/meta-compulab-imx8"]
+	path = sources/meta-compulab-imx8
+	url = https://github.com/compulab-yokneam/meta-compulab-imx8.git
